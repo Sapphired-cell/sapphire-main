@@ -21,7 +21,7 @@ function Logo() {
         <div id='body'>
             <div id='nav-bar'>
                 <button onClick={scrollToHome} id='nav-button'>
-                    Home
+                    About
                 </button>
                 <button onClick={scrollToContact} id='nav-button'>
                     Contact
