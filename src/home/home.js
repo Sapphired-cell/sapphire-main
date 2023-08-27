@@ -10,7 +10,7 @@ function Home() {
             Sapphire Helak
           </h2>
         </div>
-        <div id='about'> Welcome to my website, My name is Sapphire and I amd a aspiring web deesigner, grsaphic designer, and programmer. I'm from the mid-west and have been taught to work with urban design, as well as nature. I hope to build my skills, and after collage, open a tech firm that will hopefully move world wide. Bellow you will find my contact as well as current skills, so feel free to look around. </div>
+        <div id='about'> Welcome to my website, My name is Sapphire and I amd a aspiring web deesigner, grsaphic designer, and programmer. I'm from the mid-west and have been taught to work with urban design, as well as nature. I hope to build my skills, and after collage, open a tech firm that will hopefully move world wide. Bellow you will find my contact as well as current skills, so feel free to look around. <br/><br/> Fun fact!: I designed this exact website!</div>
         <div id='image'>
           <img src={sapphire} id='img' alt='sapphire'>
 
